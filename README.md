@@ -17,6 +17,7 @@ Identificar padrões de escrita e semelhanças estilísticas entre os textos bí
 - `data/`: Contém os textos dos evangelhos em formato `.txt`.
 - `results/`: Resultados gerados, como métricas e gráficos.
 - `Estilometria_Evangelhos.ipynb`: Notebook principal com todas as etapas da análise.
+- `Apresentação - Estilometria dos Evangelhos.pdf`: Slides da apresentação feita em sala de aula
 
 ## 🚀 Como Executar
 1. **Clone o repositório**:
